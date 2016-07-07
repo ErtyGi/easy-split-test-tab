@@ -1,0 +1,28 @@
+ul.checkbox-list  { 
+  margin: 0; 
+  padding: 0; 
+  margin-left: 5px; 
+  list-style: none;
+ 
+} 
+
+ul.checkbox-list li input { 
+  margin-right: .25em; 
+} 
+
+ul.checkbox-list li { 
+  border: 1px transparent solid; 
+  padding: 1px;
+  margin-bottom:2px;  
+} 
+
+ul.checkbox-list li label { 
+  margin-left: ; 
+} 
+
+ul.checkbox-list li:hover, 
+ul.checkbox-list li.focus  { 
+  background-color: lightyellow; 
+  border: 1px gray solid; 
+  
+} 
